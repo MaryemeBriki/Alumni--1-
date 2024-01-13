@@ -1,0 +1,263 @@
+.loginChild {
+  position: absolute;
+  top: 249px;
+  left: 514px;
+  border-radius: 24px;
+  background-color: var(--color-mediumpurple-100);
+  width: 522px;
+  height: 662px;
+}
+.motDePasse {
+  position: absolute;
+  top: 578px;
+  left: 598px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-ghostwhite);
+  display: inline-block;
+  width: 310px;
+  height: 37px;
+}
+.loginItem {
+  position: absolute;
+  top: 246px;
+  left: 674px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 207px;
+  height: 128px;
+}
+.motDePasse1,
+.signUp,
+.vousNavezPas {
+  position: absolute;
+  left: 598px;
+  text-decoration: underline;
+  font-weight: 300;
+  display: inline-block;
+  height: 40px;
+}
+.motDePasse1 {
+  top: 702px;
+  color: var(--color-white);
+  width: 451px;
+  cursor: pointer;
+}
+.signUp,
+.vousNavezPas {
+  top: 853px;
+  width: 358px;
+}
+.signUp {
+  top: 852px;
+  left: 883px;
+  color: var(--color-white);
+  width: 147px;
+  height: 29px;
+  cursor: pointer;
+}
+.span {
+  font-size: var(--font-size-17xl);
+}
+.loginTxt {
+  width: 100%;
+}
+.login1 {
+  position: absolute;
+  top: 21px;
+  left: 13px;
+  display: flex;
+  align-items: center;
+  width: 283px;
+  height: 34px;
+}
+.loginInner,
+.loginWrapper {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+}
+.loginWrapper {
+  top: 750px;
+  left: 622px;
+  background-color: var(--color-ghostwhite);
+  width: 308px;
+  height: 76px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.loginInner {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: transparent;
+  top: 469px;
+  left: 599px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 348px;
+  height: 60px;
+}
+.login2 {
+  position: absolute;
+  top: 279px;
+  left: 712px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+  display: inline-block;
+  width: 132px;
+  height: 71px;
+}
+.email,
+.frameInput {
+  position: absolute;
+  left: 601px;
+}
+.email {
+  top: 426px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 328px;
+  height: 27px;
+}
+.frameInput {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: transparent;
+  top: 624px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 348px;
+  height: 60px;
+  overflow: hidden;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 1014px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1440px;
+  height: 120px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 1033px;
+  left: 846px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 558px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.41%;
+  width: 3.47%;
+  top: 91.09%;
+  right: 44.44%;
+  bottom: 4.5%;
+  left: 52.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 51.11%;
+  left: 45.42%;
+}
+.contacterNous {
+  position: absolute;
+  top: 1096px;
+  left: 527px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 1103px;
+  left: 775px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 1093px;
+  left: 809px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 549px;
+  width: 95px;
+  cursor: pointer;
+  text-align: center;
+}
+.search {
+  top: 28px;
+  left: 773px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 549px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 611px;
+  text-align: center;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.removal4Icon,
+.removal5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.removal5Icon {
+  left: 163px;
+  width: 148px;
+  height: 133px;
+}
+.login {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 1134px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

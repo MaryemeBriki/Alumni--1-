@@ -1,0 +1,270 @@
+.signUpChild,
+.signUpInner,
+.signUpItem {
+  background-color: var(--color-mediumpurple-100);
+  position: absolute;
+}
+.signUpChild {
+  top: 229px;
+  left: 509px;
+  border-radius: 19px;
+  width: 528px;
+  height: 662px;
+}
+.signUpInner,
+.signUpItem {
+  border: 1px solid var(--color-whitesmoke);
+  outline: 0;
+  top: 546px;
+  left: 600px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 348px;
+  height: 60px;
+}
+.signUpInner {
+  border: 1px solid var(--color-ghostwhite);
+  top: 666px;
+  left: 601px;
+}
+.motDePasse {
+  position: absolute;
+  top: 618px;
+  left: 592px;
+  color: var(--color-ghostwhite);
+  text-align: left;
+}
+.rectangleInput {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: var(--color-mediumpurple-100);
+  position: absolute;
+  top: 422px;
+  left: 601px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 348px;
+  height: 60px;
+}
+.rectangleIcon,
+.userFill {
+  position: absolute;
+  top: 20px;
+  left: 26px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleIcon {
+  top: 756px;
+  left: 620px;
+  border-radius: var(--br-31xl);
+  width: 308px;
+  height: 78px;
+  cursor: pointer;
+}
+.adresseEMail {
+  top: 499px;
+  left: 592px;
+  color: var(--color-ghostwhite);
+  text-align: left;
+  width: 310px;
+  height: 37px;
+}
+.adresseEMail,
+.nomComplet,
+.signUp1 {
+  position: absolute;
+  display: inline-block;
+}
+.nomComplet {
+  top: 384px;
+  left: 592px;
+  color: var(--color-ghostwhite);
+  text-align: left;
+  width: 310px;
+  height: 37px;
+}
+.signUp1 {
+  top: 774px;
+  left: 630px;
+  width: 283px;
+  height: 34px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 229px;
+  left: 672px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 207px;
+  height: 129px;
+}
+.signUp2 {
+  position: absolute;
+  top: 265px;
+  left: 685px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 186px;
+  height: 71px;
+}
+.signUpChild1 {
+  position: absolute;
+  top: 1014px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1440px;
+  height: 120px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 1033px;
+  left: 846px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 558px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.41%;
+  width: 3.47%;
+  top: 91.09%;
+  right: 44.44%;
+  bottom: 4.5%;
+  left: 52.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 51.11%;
+  left: 45.42%;
+}
+.contacterNous {
+  position: absolute;
+  top: 1096px;
+  left: 527px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 1103px;
+  left: 775px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 1093px;
+  left: 809px;
+}
+.userIcon {
+  position: absolute;
+  top: 432px;
+  left: 893px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.lockIcon {
+  height: 3.09%;
+  width: 2.78%;
+  top: 59.79%;
+  right: 35.21%;
+  bottom: 37.13%;
+  left: 62.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.item,
+.item1,
+.lockIcon {
+  position: absolute;
+}
+.item1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item {
+  top: 29px;
+  left: 549px;
+  width: 95px;
+  height: 28px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.search,
+.searchAltIcon {
+  position: absolute;
+  top: 26px;
+  left: 966px;
+  width: 23px;
+  height: 30px;
+}
+.search {
+  top: 28px;
+  left: 773px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+  height: 28px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 549px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 611px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.removal4Icon,
+.removal5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.removal5Icon {
+  left: 163px;
+  width: 148px;
+  height: 133px;
+}
+.signUp {
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 1134px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

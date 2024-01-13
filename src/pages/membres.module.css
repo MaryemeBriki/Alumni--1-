@@ -1,0 +1,248 @@
+.membresChild {
+  position: absolute;
+  top: 1774px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 166px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 1811px;
+  left: 839px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 551px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 2.58%;
+  width: 3.47%;
+  top: 93.35%;
+  right: 44.93%;
+  bottom: 4.07%;
+  left: 51.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 51.6%;
+  left: 44.93%;
+}
+.contacterNous {
+  position: absolute;
+  top: 1872px;
+  left: 504px;
+  font-size: var(--font-size-xl);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 1883px;
+  left: 768px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 1871px;
+  left: 802px;
+}
+.informatique {
+  position: absolute;
+  top: 25px;
+  left: -7px;
+  display: inline-block;
+  width: 414px;
+  height: 69px;
+}
+.informatiqueWrapper {
+  position: absolute;
+  top: 693px;
+  left: 183px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.math {
+  position: absolute;
+  top: 25px;
+  left: 27px;
+  display: inline-block;
+  width: 346px;
+  height: 69px;
+}
+.anglaisWrapper,
+.mathWrapper,
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  position: absolute;
+  top: 910px;
+  left: 183px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+}
+.anglaisWrapper,
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  top: 1144px;
+}
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  top: 1391px;
+}
+.smerWrapper,
+.tmwWrapper {
+  top: 693px;
+  left: 858px;
+}
+.smerWrapper {
+  top: 910px;
+}
+.svt {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  display: inline-block;
+  width: 346px;
+  height: 66px;
+}
+.franaisWrapper,
+.svtWrapper {
+  position: absolute;
+  top: 1144px;
+  left: 858px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+}
+.franaisWrapper {
+  top: 1391px;
+}
+.ecoleNormaleSuperiere {
+  position: absolute;
+  top: 334px;
+  left: 250px;
+  font-size: 60px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 900px;
+  height: 162px;
+}
+.choisissezLeDpartement {
+  margin: 0;
+}
+.choisissezLeDpartementContainer {
+  position: absolute;
+  top: 496px;
+  left: 308px;
+  font-size: 35px;
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 821px;
+  height: 111px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 549px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 28px;
+  left: 773px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 549px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 611px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.removal4Icon,
+.removal5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.removal5Icon {
+  left: 163px;
+  width: 148px;
+  height: 133px;
+}
+.membres {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1940px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
